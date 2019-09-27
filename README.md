@@ -39,18 +39,20 @@
 
 ## 使用说明
 
+
+
 ```shell
 sudo apt-get install goldendict
 
 cd ~ && git clone https://github.com/yanyingwang/goldendict.git
 
-ln -sf ~/goldendict/config ~/.goldendict
-
-sudo ln -sf ~/goldendict/dictdd /usr/share/
 
 cp ~/goldendict/goldendict.desktop ~/.config/autostart
 
 ```
+
+辞典手动添加
+
 
 
 
